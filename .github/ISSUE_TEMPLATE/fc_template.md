@@ -2,7 +2,7 @@
 name: fc_template
 about: template for swe
 title: increment request
-labels: ''
+labels: fc_custom
 assignees: danriz
 
 ---
