@@ -1,15 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome my SWE 573 page
 
-You can use the [editor on GitHub](https://github.com/danriz/danriz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I have been working as system analyst, administrator, business analysis and functional architect. When I entered work force, analysts need to know coding. Now market condition has changed. Now being a developer is popular. I made a madness and entered software engineering. Let's see what will this journey bring.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will document my progress in this portal.
 
-### Markdown
+### Being familiar with wikidata
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I discover wikidata thanks to this course. Of course I know wikipedia, but wikidata is the well constructed data base. You can retrive all the data in wikipedia from the wikidata system. Association to entities are well organized.
 
-```markdown
-Syntax highlighted code block
+
+
+
+
+
 
 # Header 1
 ## Header 2
