@@ -1,6 +1,7 @@
 ## Welcome my SWE 573 page
 
-I have been working as system analyst, administrator, business analysis and functional architect. When I entered work force, analysts need to know coding. Now market condition has changed. Now being a developer is popular. I made a madness and entered software engineering. Let's see what will this journey bring.
+I have been working as system analyst, administrator, business analysis and functional architect. When I entered work force, analysts need to know coding. I am educated to decide based on facts, reason and logic to be analyst. Unfortunately, currently everyone in Turkey is an analyst. TV channels are full with people who can analyze any topic. 
+Anyhow, now market condition has changed. Now being a developer is popular. I made a madness and entered software engineering. Let's see what will this journey bring.
 
 I will document my progress in this portal.
 
