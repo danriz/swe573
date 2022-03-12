@@ -12,3 +12,11 @@ ofc2@Omers-MacBook-Pro ~ % sudo apt install python3-dev libpq-dev
 Password:
 The operation couldn’t be completed. Unable to locate a Java Runtime that supports apt.
 Please visit http://www.java.com for information on installing Java.
+
+In my old mac, my computer had buildin, up and working java. It suprised me that macosx does not build-in java.
+I search internet to find a java version compatible with m1 processor. 
+I downloaded java and tried to run it. Bu home variable is not configured.
+
+echo $JAVA_HOME
+command prints null.
+I searched a source to confiure $JAVA_HOME variable. 
