@@ -20,3 +20,5 @@ I downloaded java and tried to run it. Bu home variable is not configured.
 echo $JAVA_HOME
 command prints null.
 I searched a source to confiure $JAVA_HOME variable. 
+the web page below provides relative information.
+https://wolfpaulus.com/java-on-macos-big-sur/
