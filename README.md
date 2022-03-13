@@ -22,3 +22,9 @@ command prints null.
 I searched a source to confiure $JAVA_HOME variable. 
 the web page below provides relative information.
 https://wolfpaulus.com/java-on-macos-big-sur/
+
+## step2
+I installed postgresql for macosx manually. I managed to run my website in my local host by making google searches whenever I faced with an error.
+I used my username in operating system (ofc2) in postgresql. I put the same username to configuration file. 
+my postgresql is running in local host and django is also running.
+I still can not start java in my local computer.
