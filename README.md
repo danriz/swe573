@@ -1,4 +1,3 @@
-<img width="704" alt="s1" src="https://user-images.githubusercontent.com/5708061/158053839-c6822767-8858-4c1e-ac09-a4747bfff45a.png">
 # swe573 Ömer Faruk Çevik
 project progress of swe 573 course in the year 2022 spring.
 ## installing django 12.02.2022
@@ -34,3 +33,4 @@ I still can not start java in my local computer.
 <img width="870" alt="s6" src="https://user-images.githubusercontent.com/5708061/158053779-78bb7731-2156-40b2-b340-e59899a32956.png">
 <img width="1339" alt="s3" src="https://user-images.githubusercontent.com/5708061/158053785-a04c5b00-b606-4243-b530-6866f035f8ad.png">
 <img width="1003" alt="s2" src="https://user-images.githubusercontent.com/5708061/158053798-614d838c-f164-455b-8f75-68582794473d.png">
+<img width="704" alt="s1" src="https://user-images.githubusercontent.com/5708061/158053839-c6822767-8858-4c1e-ac09-a4747bfff45a.png">
