@@ -38,5 +38,14 @@ I still can not start java in my local computer.
  I failed to deploy. I think it is because pythoneveryhwhere requires paid membership to postgresql. I have to switch mysql.
  <img width="1220" alt="Screen Shot 2022-03-13 at 12 46 55" src="https://user-images.githubusercontent.com/5708061/158054010-5a364267-1cf7-4bc4-b899-0398f84aa579.png">
 
- 
+## restart server one day later
+ofc2@Omers-MacBook-Pro ~ % psql postgres
+ofc2@Omers-MacBook-Pro ~ % source myvenv/bin/activate
+(myvenv) ofc2@Omers-MacBook-Pro ~ % cd djangogirls
+(myvenv) ofc2@Omers-MacBook-Pro djangogirls % source myvenv/bin/activate
+(myvenv) ofc2@Omers-MacBook-Pro djangogirls % django-admin startproject mysite .
+
+
+
+
  
