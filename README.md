@@ -1,3 +1,4 @@
+<img width="704" alt="s1" src="https://user-images.githubusercontent.com/5708061/158053839-c6822767-8858-4c1e-ac09-a4747bfff45a.png">
 # swe573 Ömer Faruk Çevik
 project progress of swe 573 course in the year 2022 spring.
 ## installing django 12.02.2022
