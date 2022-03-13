@@ -9,7 +9,10 @@ I will document my progress in this portal.
 
 I discover wikidata thanks to this course. Of course I know wikipedia, but wikidata is the well constructed data base. You can retrive all the data in wikipedia from the wikidata system. Association to entities are well organized.
 
-
+### week2 my python and django journey
+I successfully run the website in my local computer. But there are some problems in the server deployment.
+Here is my running website at local.
+https://www.youtube.com/watch?v=lY7y_AMTW1U
 
 
 
