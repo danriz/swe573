@@ -34,3 +34,9 @@ I still can not start java in my local computer.
 <img width="1339" alt="s3" src="https://user-images.githubusercontent.com/5708061/158053785-a04c5b00-b606-4243-b530-6866f035f8ad.png">
 <img width="1003" alt="s2" src="https://user-images.githubusercontent.com/5708061/158053798-614d838c-f164-455b-8f75-68582794473d.png">
 <img width="704" alt="s1" src="https://user-images.githubusercontent.com/5708061/158053839-c6822767-8858-4c1e-ac09-a4747bfff45a.png">
+ ## step3 - deployment
+ I failed to deploy. I think it is because pythoneveryhwhere requires paid membership to postgresql. I have to switch mysql.
+ <img width="1220" alt="Screen Shot 2022-03-13 at 12 46 55" src="https://user-images.githubusercontent.com/5708061/158054010-5a364267-1cf7-4bc4-b899-0398f84aa579.png">
+
+ 
+ 
