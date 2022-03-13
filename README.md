@@ -29,3 +29,7 @@ I used my username in operating system (ofc2) in postgresql. I put the same user
 my postgresql is running in local host and django is also running.
 I still can not start java in my local computer.
 <img width="1432" alt="s4" src="https://user-images.githubusercontent.com/5708061/158053383-4f91fa3d-f9a5-4eec-adea-9f6d65413bd1.png">
+
+<img width="870" alt="s6" src="https://user-images.githubusercontent.com/5708061/158053779-78bb7731-2156-40b2-b340-e59899a32956.png">
+<img width="1339" alt="s3" src="https://user-images.githubusercontent.com/5708061/158053785-a04c5b00-b606-4243-b530-6866f035f8ad.png">
+<img width="1003" alt="s2" src="https://user-images.githubusercontent.com/5708061/158053798-614d838c-f164-455b-8f75-68582794473d.png">
