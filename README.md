@@ -28,3 +28,4 @@ I installed postgresql for macosx manually. I managed to run my website in my lo
 I used my username in operating system (ofc2) in postgresql. I put the same username to configuration file. 
 my postgresql is running in local host and django is also running.
 I still can not start java in my local computer.
+<img width="1432" alt="s4" src="https://user-images.githubusercontent.com/5708061/158053383-4f91fa3d-f9a5-4eec-adea-9f6d65413bd1.png">
