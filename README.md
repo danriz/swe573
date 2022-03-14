@@ -47,7 +47,8 @@ ofc2@Omers-MacBook-Pro ~ % source myvenv/bin/activate
 
 ## application is running on my local
 The application is performing well on my local computer with a postgresql. Its video is here:
-https://youtu.be/IY7y_AMTW1U
+https://youtu.be/lY7y_AMTW1U
+
 I can not transfer to the pythonanywhere server.
 I followed the directions there to make an up and running site.
 https://blog.pythonanywhere.com/155/
