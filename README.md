@@ -56,6 +56,7 @@ https://youtu.be/lY7y_AMTW1U
 I can not transfer to the pythonanywhere server.
 I followed the directions there to make an up and running site.
 https://blog.pythonanywhere.com/155/
-
+In other words I created the web site via wizard.
+I will manually configure settings to convert it to djangogirls tutorial.
 
  
