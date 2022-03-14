@@ -45,7 +45,12 @@ ofc2@Omers-MacBook-Pro ~ % source myvenv/bin/activate
 (myvenv) ofc2@Omers-MacBook-Pro djangogirls % source myvenv/bin/activate
 (myvenv) ofc2@Omers-MacBook-Pro djangogirls % django-admin startproject mysite .
 
-
+## application is running on my local
+The application is performing well on my local computer with a postgresql. Its video is here:
+https://youtu.be/IY7y_AMTW1U
+I can not transfer to the pythonanywhere server.
+I followed the directions there to make an up and running site.
+https://blog.pythonanywhere.com/155/
 
 
  
