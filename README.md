@@ -60,4 +60,4 @@ In other words I created the web site via wizard.
 I will manually configure settings to convert it to djangogirls tutorial.
 
 ## the learning portal design
-As a system analyst professional for years, I have faced software failures dozens of times. Those failures happens because the related requirements are not gathered properly at the beginning. 
+As a system analyst professional for years, I have faced software failures dozens of times. Those failures happens because the related requirements are not gathered properly at the beginning. So, firstly I tried to collect as much as information at the beginning. I have talked with a teacher friend, search for internet and so on. I wnat to enphasis that I am not an educator and I have no experience with education.
