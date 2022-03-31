@@ -59,4 +59,5 @@ https://blog.pythonanywhere.com/155/
 In other words I created the web site via wizard.
 I will manually configure settings to convert it to djangogirls tutorial.
 
- 
+## the learning portal design
+As a system analyst professional for years, I have faced software failures dozens of times. Those failures happens because the related requirements are not gathered properly at the beginning. 
