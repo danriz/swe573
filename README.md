@@ -63,4 +63,8 @@ I will manually configure settings to convert it to djangogirls tutorial.
 As a system analyst professional for years, I have faced software failures dozens of times. Those failures happens because the related requirements are not gathered properly at the beginning. So, firstly I tried to collect as much as information at the beginning. I have talked with a teacher friend, search for internet and so on. I want to emphasis that I am not an educator and I have no experience with education. Also I have no experience with human psychology. Thus professional educators and psychologists should ne involved in a serious project.
 ### three impartant factors in learning
 As far as I understant from my searches the intelligence level of an individual, the character of the person and familarity with the topics are three important factor for determining a candidate student's level.  
-<p>the first one is the intelligent quality of an individual for quantitative courses. People qith higher IQ probably can learn faster in quantitative courses. Thus, the content for a quantitative course for a person with low IQ can be large while for people with high IQ they might be short lectures. In this way, some people do not get bored quickly while some people do not dropout the course because they do not understand.
+<p>the first one is the intelligent quality of an individual for quantitative courses. People qith higher IQ probably can learn faster in quantitative courses. Thus, the content for a quantitative course for a person with low IQ can be large while for people with high IQ they might be short lectures. In this way, some people do not get bored quickly while some people do not dropout the course because they do not understand.  
+ ### quizlet question preperation
+ I found the website quizlet.com as a good example for question preperation.
+ 
+
